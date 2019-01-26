@@ -1,0 +1,29 @@
+
+
+{
+	"hotSearch":[
+		"裤子宽松女","衣服修身女","笔记本","小孩冬装"
+	],
+	"indexBanners":[
+		"./static/img/other/banner1.jpg",
+		"./static/img/other/banner2.jpg"
+	],
+	"partner":[
+		{
+			"partnerTit":"天 猫",
+			"partnerImg":"./static/img/other/tm.jpg"
+		},
+		{
+			"partnerTit":"美团外卖",
+			"partnerImg":"./static/img/other/mtwm.jpg"
+		},
+		{
+			"partnerTit":"充值中心",
+			"partnerImg":"./static/img/other/czzx.jpg"
+		},
+		{
+			"partnerTit":"商务合作",
+			"partnerImg":"./static/img/other/swhz.jpg"
+		}
+	]
+}

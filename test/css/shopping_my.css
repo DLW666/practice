@@ -1,0 +1,39 @@
+
+.myShopping{
+    padding: 5%;
+    background: #9f9f9f;
+}
+.head{
+	display: flex;
+    align-items: center;
+}
+.head_img{
+	width:20%;
+}
+.head_img img{
+    border-radius: 50%;
+}
+.head_name{
+	font-size: 1.5rem;
+    margin-left: 3%;
+}
+.info_list{
+	margin-top: 5%;
+	background: #fff;
+    color: #9f9f9f;
+    padding: 2%;
+    border-radius: 1rem;
+}
+.info_list ul{
+	display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.info_list ul li{
+	width: 25%;
+}
+.info_list ul li p:nth-child(2){
+	font-size: 0.8rem;
+}
+
+

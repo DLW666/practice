@@ -1,0 +1,13 @@
+[
+	{
+		"id":1,
+		"name":"×××××××××",
+		"personal_img":"./static/img/user/1.jpg",
+		"info_list":[
+			{"coll_name":"收藏夹","coll_value":"0"},
+			{"coll_name":"关注","coll_value":"0"},
+			{"coll_name":"红包卡券","coll_value":"0"},
+			{"coll_name":"会员积分","coll_value":"0"}
+		]
+	}
+]
